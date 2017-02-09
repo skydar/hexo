@@ -70,4 +70,4 @@ theme: material
 deploy:
   type: git
   repository: https://github.com/skydar/skydar.github.io.git
-  branch: 2017.2.9
+  branch: master
